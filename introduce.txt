@@ -1,1 +1,2 @@
 This is a about HTML, CSS, JS code base
+作为一个喜欢猫的新手码喵 给自己创建一个知识类库是有必要的。
